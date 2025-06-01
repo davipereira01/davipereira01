@@ -33,7 +33,7 @@ Sou um desenvolvedor Front-End Júnior apaixonado por transformar ideias em inte
 ---
 
 ### 📫 Vamos conversar?
-- Email: [davi.pereira9@gmail.com](mailto:davips.dev@gmail.com)  
+- Email: [davips.dev@gmail.com](mailto:davips.dev@gmail.com)  
 - LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/davi-spereira)  
 - Portfolio: [seuportifolio.com](https://davipereira.com)  
 - GitHub: [github.com/seuusuario](https://github.com/davipereira01)
